@@ -1,0 +1,25 @@
+Adam Machanic, sp_WhoIsActive
+	http://www.whoisactive.com/
+
+Brent Ozar, Blitz family
+	http://FirstResponderKit.org
+	https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit/tree/master
+
+Jason Strate, sp_IndexAnalysis
+	http://www.jasonstrate.com/index-resources/
+		also good: http://www.jasonstrate.com/2013/03/thats-actually-a-duplicate-index/
+
+
+Paul Brewer, sp_RestoreGene
+	https://paulbrewer.wordpress.com/sp_restoregene/
+
+
+Glenn Berry, Diagnostic Queries
+	http://www.sqlskills.com/blogs/glenn/category/dmv-queries/
+
+
+Michelle Ufford, index defrag
+	http://sqlfool.com/2011/06/index-defrag-script-v4-1/
+
+Kimberly Tripp, sp_helpindex
+	http://www.sqlskills.com/blogs/kimberly/use-this-new-sql-server-2012-rewrite-for-sp_helpindex/

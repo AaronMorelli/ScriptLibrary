@@ -1,0 +1,26 @@
+Clear Trace (Bill Graziano)
+	http://www.scalesql.com/cleartrace/
+
+
+
+BIDS Helper
+	http://bidshelper.codeplex.com/
+
+Atlantis Interactive (apparently didn't do well commercially and maybe going open source)
+	http://www.atlantis-interactive.co.uk/
+	if the site goes, look for tools named "Data Surf", "Schema Surf", "SQL EveryWhere", "Schema Inspector", etc
+
+SSMS Tools Pack  (newer versions are not free)
+	http://www.ssmstoolspack.com/
+
+tSQLt
+	https://sourceforge.net/projects/tsqlt/
+
+
+Internals Viewer
+	http://internalsviewer.codeplex.com/
+
+
+Old, huge lists of free tools
+	http://sqlmag.com/database-performance-tuning/mega-guide-free-sql-server-tools
+	http://weblogs.sqlteam.com/mladenp/archive/2007/11/20/Free-SQL-Server-tools-that-might-make-your-life-a.aspx
