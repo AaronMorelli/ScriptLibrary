@@ -1,0 +1,1 @@
+Get-ChildItem Cert:\  -recurse -expiringInDays 75
