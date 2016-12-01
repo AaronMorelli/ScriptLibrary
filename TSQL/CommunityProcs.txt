@@ -9,7 +9,6 @@ Jason Strate, sp_IndexAnalysis
 	http://www.jasonstrate.com/index-resources/
 		also good: http://www.jasonstrate.com/2013/03/thats-actually-a-duplicate-index/
 
-
 Paul Brewer, sp_RestoreGene
 	https://paulbrewer.wordpress.com/sp_restoregene/
 
@@ -17,6 +16,8 @@ Paul Brewer, sp_RestoreGene
 Glenn Berry, Diagnostic Queries
 	http://www.sqlskills.com/blogs/glenn/category/dmv-queries/
 
+Daniel Hutmacher (SQLSunday)
+	https://sqlsunday.com/2016/11/28/sp_ctrl3/
 
 Michelle Ufford, index defrag
 	http://sqlfool.com/2011/06/index-defrag-script-v4-1/
