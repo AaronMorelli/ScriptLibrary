@@ -1,0 +1,3 @@
+--Paul Randal wrote a proc to return lots of useful info about allocation metadata here: 
+-- http://www.sqlskills.com/blogs/paul/inside-the-storage-engine-sp_allocationmetadata-putting-undocumented-system-catalog-views-to-work/
+-- here's one place where he used it: http://www.sqlskills.com/blogs/paul/misconceptions-around-tf-1118/
