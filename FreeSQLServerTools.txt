@@ -7,6 +7,8 @@ http://tools.davidklee.net/sqlio.aspx
 
 BIDS Helper
 	http://bidshelper.codeplex.com/
+	
+SQL Nexus
 
 Atlantis Interactive (apparently didn't do well commercially and maybe going open source)
 	http://www.atlantis-interactive.co.uk/
