@@ -1,7 +1,9 @@
 Clear Trace (Bill Graziano)
 	http://www.scalesql.com/cleartrace/
 
+http://www.karaszi.com/SQLServer/util_sp_indexinfo.asp
 
+http://tools.davidklee.net/sqlio.aspx 
 
 BIDS Helper
 	http://bidshelper.codeplex.com/
